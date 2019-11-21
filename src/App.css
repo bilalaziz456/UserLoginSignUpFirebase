@@ -20,3 +20,21 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Login-center {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+}
+.Login-border{
+  border-style: solid;
+  padding: 15px;
+}
+.Login-create-account {
+  margin-top: 10px;
+  float: right;
+  font-size: 13px;
+}
+.color-red {
+  color: red;
+}
